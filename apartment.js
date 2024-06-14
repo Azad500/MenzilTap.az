@@ -86,7 +86,7 @@ function updateCarDetails(carId, callback) {
       ".about-apartment p:last-child"
     );
     const salerName = document.querySelector(".user-elements span");
-    const carsPrices = document.querySelector(".cars-prices");
+    const apartmentPrices = document.querySelector(".apartment-prices");
     const phoneNumber = document.querySelector(".blur-element");
     const carDate = document.querySelector(".date");
     const categoria = document.querySelector(".categoria");
@@ -98,7 +98,7 @@ function updateCarDetails(carId, callback) {
     const address = document.querySelector(".address");
     const location = document.querySelector(".location");
     const aboutApartment = document.querySelector(".about-car");
-    const carsId = document.querySelector(".cars-id");
+    const apartmentId = document.querySelector(".apartment-id");
     const carousel = document.querySelector(".carousel");
     const infoElementThree = document.querySelector(".info-element-three");
 
@@ -115,9 +115,9 @@ function updateCarDetails(carId, callback) {
     repair.textContent = carData.repair;
     address.textContent = carData.address;
     location.href = carData.location;
-    carsPrices.textContent = carData.price;
+    apartmentPrices.textContent = carData.price;
     aboutApartment.textContent = carData.aboutApartment;
-    carsId.textContent = carData.id;
+    apartmentId.textContent = carData.id;
 
     carousel.innerHTML = "";
     infoElementThree.innerHTML = "";

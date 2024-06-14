@@ -8,7 +8,7 @@ document.addEventListener("DOMContentLoaded", function () {
       image3: "/images/apartment/01/014.png",
       image4: "/images/apartment/01/015.png",
       image5: "/images/apartment/01/016.png",
-      buy: "alış",
+      buy: "Alış",
       place: "Bakı",
       prices: 365000,
       price: "365 000 AZN",
@@ -16,7 +16,7 @@ document.addEventListener("DOMContentLoaded", function () {
       field: "90 ㎡",
       extract: "Kupça var",
       floor: "17/9",
-      room: "2",
+      room: "2 otaqlı",
       repair: "Təmirli",
       location: "https://maps.app.goo.gl/NJboWwRGvxa1pW8GA",
       address: "28. May. m/s yaxın VİP. Bina",
@@ -35,7 +35,7 @@ document.addEventListener("DOMContentLoaded", function () {
       image3: "/images/apartment/02/024.png",
       image4: "/images/apartment/02/025.png",
       image5: "/images/apartment/02/026.png",
-      buy: "alış",
+      buy: "Alış",
       place: "Bakı",
       prices: 157300,
       price: "157 300 AZN",
@@ -43,7 +43,7 @@ document.addEventListener("DOMContentLoaded", function () {
       field: "71.5 ㎡",
       extract: "Kupça var",
       floor: "16/9",
-      room: "2",
+      room: "2 otaqlı",
       repair: "Təmirli",
       location: "https://maps.app.goo.gl/nKvD5p6R7Dnc89PA8",
       address: "Heydər Əliyev prospekti 189",
@@ -62,7 +62,7 @@ document.addEventListener("DOMContentLoaded", function () {
       image3: "/images/apartment/03/034.png",
       image4: "/images/apartment/03/035.png",
       image5: "/images/apartment/03/036.png",
-      buy: "alış",
+      buy: "Alış",
       place: "Bakı",
       prices: 550000,
       price: "550 000 AZN",
@@ -70,7 +70,7 @@ document.addEventListener("DOMContentLoaded", function () {
       field: "175 ㎡",
       extract: "Kupça var",
       floor: "19/14",
-      room: "4",
+      room: "4 otaqlı",
       repair: "Təmirli",
       location: "https://maps.app.goo.gl/kCUiqfTbwZy6p7Dv6",
       address: "Elmlər Akademiyası",
@@ -89,7 +89,7 @@ document.addEventListener("DOMContentLoaded", function () {
       image3: "/images/apartment/04/044.png",
       image4: "/images/apartment/04/045.png",
       image5: "/images/apartment/04/046.png",
-      buy: "alış",
+      buy: "Alış",
       place: "Bakı",
       prices: 480000,
       price: "480 000 AZN",
@@ -97,7 +97,7 @@ document.addEventListener("DOMContentLoaded", function () {
       field: "132 ㎡",
       extract: "Müqavilə",
       floor: "17/8",
-      room: "3",
+      room: "3 otaqlı",
       repair: "Təmirli",
       location: "https://maps.app.goo.gl/N8pJQTGZS2etmDXp8",
       address: "28. May m/s yanı",
@@ -117,7 +117,7 @@ document.addEventListener("DOMContentLoaded", function () {
       image3: "/images/apartment/05/054.png",
       image4: "/images/apartment/05/055.png",
       image5: "/images/apartment/05/056.png",
-      buy: "alış",
+      buy: "Alış",
       place: "Bakı",
       prices: 450000,
       price: "450 000 AZN",
@@ -125,7 +125,7 @@ document.addEventListener("DOMContentLoaded", function () {
       field: "380 ㎡",
       extract: "Kupça var",
       floor: "2",
-      room: "6",
+      room: "6 otaqlı",
       repair: "Təmirli",
       location: "https://maps.app.goo.gl/rnkbsuFVyz473gps9",
       address: "Fatmayı qes. 12 SOT",
@@ -145,7 +145,7 @@ document.addEventListener("DOMContentLoaded", function () {
       image3: "/images/apartment/06/064.png",
       image4: "/images/apartment/06/065.png",
       image5: "/images/apartment/06/066.png",
-      buy: "alış",
+      buy: "Alış",
       place: "Bakı",
       prices: 440000,
       price: "440 000 AZN",
@@ -153,7 +153,7 @@ document.addEventListener("DOMContentLoaded", function () {
       field: "300 ㎡",
       extract: "Kupça var",
       floor: "2",
-      room: "6",
+      room: "5 otaqlı və daha çox",
       repair: "Təmirli",
       location: "https://maps.app.goo.gl/wZeydshMMPyZ9dPx8",
       address: "Badmdar qes 2 Massiv 5. SOT",
@@ -173,7 +173,7 @@ document.addEventListener("DOMContentLoaded", function () {
       image3: "/images/apartment/07/074.png",
       image4: "/images/apartment/07/075.png",
       image5: "/images/apartment/07/076.png",
-      buy: "alış",
+      buy: "Alış",
       place: "Bakı",
       prices: 285000,
       price: "285 000 AZN",
@@ -181,7 +181,7 @@ document.addEventListener("DOMContentLoaded", function () {
       field: "84 ㎡",
       extract: "Kupça var",
       floor: "18/7",
-      room: "3",
+      room: "3 otaqlı",
       repair: "Təmirli",
       location: "https://maps.app.goo.gl/wZeydshMMPyZ9dPx8",
       address: "Elmlər. Ak Qurtqaşınlı küç",
@@ -200,7 +200,7 @@ document.addEventListener("DOMContentLoaded", function () {
       image3: "/images/apartment/08/084.png",
       image4: "/images/apartment/08/085.png",
       image5: "/images/apartment/08/086.png",
-      buy: "alış",
+      buy: "Alış",
       place: "Bakı",
       prices: 382000,
       price: "382 000 AZN",
@@ -208,7 +208,7 @@ document.addEventListener("DOMContentLoaded", function () {
       field: "103 ㎡",
       extract: "Kupça var",
       floor: "27/25",
-      room: "3",
+      room: "3 otaqlı",
       repair: "Təmirli",
       location: "https://maps.app.goo.gl/wZeydshMMPyZ9dPx8",
       address: "Tblisi pr Grad Həyat ViP. Bina",
@@ -227,7 +227,7 @@ document.addEventListener("DOMContentLoaded", function () {
       image3: "/images/apartment/09/094.png",
       image4: "/images/apartment/09/095.png",
       image5: "/images/apartment/09/096.png",
-      buy: "alış",
+      buy: "Alış",
       place: "Bakı",
       prices: 222000,
       price: "222 000 AZN",
@@ -235,7 +235,7 @@ document.addEventListener("DOMContentLoaded", function () {
       field: "400 ㎡",
       extract: "Kupça var",
       floor: "3",
-      room: "7",
+      room: "5 otaqlı və daha çox",
       repair: "Təmirli",
       location: "https://maps.app.goo.gl/wZeydshMMPyZ9dPx8",
       address: "Tblisi pr Grad Həyat ViP. Bina",
@@ -254,7 +254,7 @@ document.addEventListener("DOMContentLoaded", function () {
       image3: "/images/apartment/10/104.png",
       image4: "/images/apartment/10/105.png",
       image5: "/images/apartment/10/106.png",
-      buy: "alış",
+      buy: "Alış",
       place: "Bakı",
       prices: 550000,
       price: "550 000 AZN",
@@ -262,7 +262,7 @@ document.addEventListener("DOMContentLoaded", function () {
       field: "181 ㎡",
       extract: "Kupça var",
       floor: "16/4",
-      room: "4",
+      room: "4 otaqlı",
       repair: "Təmirli",
       location: "https://maps.app.goo.gl/wZeydshMMPyZ9dPx8",
       address: "Xətai ray m/s. yaxın",
@@ -281,7 +281,7 @@ document.addEventListener("DOMContentLoaded", function () {
       image3: "/images/apartment/11/114.png",
       image4: "/images/apartment/11/115.png",
       image5: "/images/apartment/11/116.png",
-      buy: "alış",
+      buy: "Alış",
       place: "Bakı",
       prices: 450000,
       price: "450 000 AZN",
@@ -289,7 +289,7 @@ document.addEventListener("DOMContentLoaded", function () {
       field: "126 ㎡",
       extract: "Müqavilə",
       floor: "19/15",
-      room: "3",
+      room: "3 otaqlı",
       repair: "Təmirli",
       location: "https://maps.app.goo.gl/2X88FACEpRaJ2Vxr8",
       address: "Nərimanov ray MetroPark",
@@ -308,7 +308,7 @@ document.addEventListener("DOMContentLoaded", function () {
       image3: "/images/apartment/12/124.png",
       image4: "/images/apartment/12/125.png",
       image5: "/images/apartment/12/126.png",
-      buy: "alış",
+      buy: "Alış",
       place: "Bakı",
       prices: 430000,
       price: "430 000 AZN",
@@ -316,7 +316,7 @@ document.addEventListener("DOMContentLoaded", function () {
       field: "145 ㎡",
       extract: "Müqavilə",
       floor: "19/4",
-      room: "3",
+      room: "3 otaqlı",
       repair: "Təmirli",
       location: "https://maps.app.goo.gl/ukLQpJwb7doKVMnk8",
       address: "Elmlər. Ak Mirvari. Park",
@@ -335,7 +335,7 @@ document.addEventListener("DOMContentLoaded", function () {
       image3: "/images/apartment/13/134.png",
       image4: "/images/apartment/13/135.png",
       image5: "/images/apartment/13/136.png",
-      buy: "alış",
+      buy: "Alış",
       place: "Bakı",
       prices: 415000,
       price: "415 000 AZN",
@@ -343,7 +343,7 @@ document.addEventListener("DOMContentLoaded", function () {
       field: "300 ㎡",
       extract: "Kupça var",
       floor: "18/17",
-      room: "5",
+      room: "5 otaqlı və daha çox",
       repair: "Təmirli",
       location: "https://maps.app.goo.gl/ov2NhnQRs6gvsJay5",
       address: "Elmlər. Ak Renesas Palace",
@@ -362,7 +362,7 @@ document.addEventListener("DOMContentLoaded", function () {
       image3: "/images/apartment/14/144.png",
       image4: "/images/apartment/14/145.png",
       image5: "/images/apartment/14/146.png",
-      buy: "alış",
+      buy: "Alış",
       place: "Bakı",
       prices: 620000,
       price: "620 000 AZN",
@@ -370,7 +370,7 @@ document.addEventListener("DOMContentLoaded", function () {
       field: "650 ㎡",
       extract: "Kupça var",
       floor: "3",
-      room: "6",
+      room: "5 otaqlı daha çox",
       repair: "Təmirli",
       location: "https://maps.app.goo.gl/5Bv2tXzQLj14UNwRA",
       address: "Bakıxanov qes 7. SOT",
@@ -389,7 +389,7 @@ document.addEventListener("DOMContentLoaded", function () {
       image3: "/images/apartment/15/154.png",
       image4: "/images/apartment/15/155.png",
       image5: "/images/apartment/15/156.png",
-      buy: "alış",
+      buy: "Alış",
       place: "Bakı",
       prices: 920000,
       price: "920 000 AZN",
@@ -397,7 +397,7 @@ document.addEventListener("DOMContentLoaded", function () {
       field: "650 ㎡",
       extract: "Kupça var",
       floor: "2",
-      room: "7",
+      room: "5 otaqlı və daha çox",
       repair: "Təmirli",
       location: "https://maps.app.goo.gl/3pFFRfXdJh2tXhjt6",
       address: "Qarayev m/s yaxın 7. SOT",
@@ -416,7 +416,7 @@ document.addEventListener("DOMContentLoaded", function () {
       image3: "/images/apartment/16/164.png",
       image4: "/images/apartment/16/165.png",
       image5: "/images/apartment/16/166.png",
-      buy: "alış",
+      buy: "Alış",
       place: "Bakı",
       prices: 380000,
       price: "380 000 AZN",
@@ -424,7 +424,7 @@ document.addEventListener("DOMContentLoaded", function () {
       field: "138 ㎡",
       extract: "Kupça var",
       floor: "16/15",
-      room: "3",
+      room: "3 otaqlı",
       repair: "Təmirli",
       location: "https://maps.app.goo.gl/3pFFRfXdJh2tXhjt6",
       address: "Qarayev m/s yaxın 7. SOT",
@@ -441,7 +441,7 @@ document.addEventListener("DOMContentLoaded", function () {
       image: "./images/apartment/17/171.png",
       image1: "/images/apartment/17/172.png",
       image2: "/images/apartment/17/173.png",
-      buy: "alış",
+      buy: "Alış",
       place: "Bakı",
       prices: 48000,
       price: "48 000 AZN",
@@ -449,13 +449,13 @@ document.addEventListener("DOMContentLoaded", function () {
       field: "28 ㎡",
       extract: "Kupça var",
       floor: "1",
-      room: "1",
+      room: "1 otaqlı",
       repair: "Təmirli",
       location: "https://maps.app.goo.gl/swGCQ9Si2ipnJZVu6",
       address: "Xətai rayonu",
       description: "28 ㎡, 1 mərtəbə",
       aboutApartment:
-        "Park Azure, Azure Business Center, Xətai m. istiqamətində yaşayan və çalışan sakinlər üçün çox əlverişlidir.",
+        "Park Azure, Azure Business Center, Xətai m. istiqamətində yaşayan və çAlışan sakinlər üçün çox əlverişlidir.",
       salerName: "Zakir",
       phoneNumber: "055 555 55 55",
       dates: "04.20.2020",
@@ -465,7 +465,7 @@ document.addEventListener("DOMContentLoaded", function () {
       id: 18,
       image: "./images/apartment/18/181.png",
       image1: "/images/apartment/18/182.png",
-      buy: "alış",
+      buy: "Alış",
       place: "Bakı",
       prices: 4500,
       price: "4500 AZN",
@@ -473,7 +473,7 @@ document.addEventListener("DOMContentLoaded", function () {
       field: "15 ㎡",
       extract: "Kupça yoxdur",
       floor: "1",
-      room: "1",
+      room: "1 otaqlı",
       repair: "Təmirli",
       location: "https://maps.app.goo.gl/fxPrJRU5YYLziw1UA",
       address: "Qaradağ rayon Sahil qəsəbəsi",
@@ -489,7 +489,7 @@ document.addEventListener("DOMContentLoaded", function () {
       image: "./images/apartment/19/191.png",
       image1: "/images/apartment/19/192.png",
       image2: "/images/apartment/19/193.png",
-      buy: "alış",
+      buy: "Alış",
       place: "Bakı",
       prices: 4000,
       price: "4000 AZN",
@@ -514,7 +514,7 @@ document.addEventListener("DOMContentLoaded", function () {
       image: "./images/apartment/20/201.png",
       image1: "/images/apartment/20/202.png",
       image2: "/images/apartment/20/203.png",
-      buy: "alış",
+      buy: "Alış",
       place: "Bakı",
       prices: 4000,
       price: "4000 AZN",
@@ -542,7 +542,7 @@ document.addEventListener("DOMContentLoaded", function () {
       image3: "/images/apartment/21/214.png",
       image4: "/images/apartment/21/215.png",
       image5: "/images/apartment/21/216.png",
-      buy: "alış",
+      buy: "Alış",
       place: "Bakı",
       prices: 13000,
       price: "13000 AZN",
@@ -570,7 +570,7 @@ document.addEventListener("DOMContentLoaded", function () {
       image3: "/images/apartment/22/224.png",
       image4: "/images/apartment/22/225.png",
       image5: "/images/apartment/22/226.png",
-      buy: "alış",
+      buy: "Alış",
       place: "İsmayıllı",
       prices: 1200,
       price: "1200 AZN",
@@ -598,7 +598,7 @@ document.addEventListener("DOMContentLoaded", function () {
       image3: "/images/apartment/23/234.png",
       image4: "/images/apartment/23/235.png",
       image5: "/images/apartment/23/236.png",
-      buy: "alış",
+      buy: "Alış",
       place: "Beyləqan",
       prices: 50000,
       price: "50 000 AZN",
@@ -606,7 +606,7 @@ document.addEventListener("DOMContentLoaded", function () {
       field: "10 sot",
       extract: "Çıxarışı var",
       floor: "2",
-      room: "2",
+      room: "2 otaqlı",
       repair: "Təmirsiz",
       location: "https://maps.app.goo.gl/B5xWmYSY86A6aLSE8",
       address: "Beyləqan rayonu,Dünyamallar k",
@@ -626,7 +626,7 @@ document.addEventListener("DOMContentLoaded", function () {
       image3: "/images/apartment/24/244.png",
       image4: "/images/apartment/24/245.png",
       image5: "/images/apartment/24/246.png",
-      buy: "alış",
+      buy: "Alış",
       place: "Şamaxı",
       prices: 24000,
       price: "24 000 AZN",
@@ -654,7 +654,7 @@ document.addEventListener("DOMContentLoaded", function () {
       image3: "/images/apartment/25/254.png",
       image4: "/images/apartment/25/255.png",
       image5: "/images/apartment/25/256.png",
-      buy: "alış",
+      buy: "Alış",
       place: "Abşeron",
       prices: 130000,
       price: "130 000 AZN",
@@ -662,7 +662,7 @@ document.addEventListener("DOMContentLoaded", function () {
       field: "25 ㎡",
       extract: "Kupça var",
       floor: "1",
-      room: "1",
+      room: "1 otaqlı",
       repair: "Təmirli",
       location: "https://maps.app.goo.gl/j3eJaX3iaLArUn3s9",
       address: "Abşeron rayonu",
@@ -681,7 +681,7 @@ document.addEventListener("DOMContentLoaded", function () {
       image2: "/images/apartment/26/263.png",
       image3: "/images/apartment/26/264.png",
       image4: "/images/apartment/26/265.png",
-      buy: "alış",
+      buy: "Alış",
       place: "Ağcabədi",
       prices: 40000,
       price: "40 000 AZN",
@@ -689,7 +689,7 @@ document.addEventListener("DOMContentLoaded", function () {
       field: "41 ㎡",
       extract: "Kupça var",
       floor: "1",
-      room: "1",
+      room: "1 otaqlı",
       repair: "Təmirli",
       location: "https://maps.app.goo.gl/9ZEfMMEqZbngRZT98",
       address: "Ağcabədi rayonu",
@@ -708,7 +708,7 @@ document.addEventListener("DOMContentLoaded", function () {
       image3: "/images/apartment/27/274.png",
       image4: "/images/apartment/27/275.png",
       image5: "/images/apartment/27/276.png",
-      buy: "alış",
+      buy: "Alış",
       place: "Bərdə",
       prices: 50000,
       price: "50 000 AZN",
@@ -716,7 +716,7 @@ document.addEventListener("DOMContentLoaded", function () {
       field: "300 ㎡",
       extract: "Kupça var",
       floor: "1",
-      room: "5",
+      room: "5 otaqlı və daha çox",
       repair: "Təmirli",
       location: "https://maps.app.goo.gl/9CTwtR3wjseZ2dhe7",
       address: "Bərdə rayonu",
@@ -735,7 +735,7 @@ document.addEventListener("DOMContentLoaded", function () {
       image3: "/images/apartment/28/284.png",
       image4: "/images/apartment/28/285.png",
       image5: "/images/apartment/28/286.png",
-      buy: "alış",
+      buy: "Alış",
       place: "Cəlilabad",
       prices: 100000,
       price: "100 000 AZN",
@@ -743,7 +743,7 @@ document.addEventListener("DOMContentLoaded", function () {
       field: "90 ㎡",
       extract: "Kupça var",
       floor: "17/9",
-      room: "2",
+      room: "2 otaqlı",
       repair: "Təmirli",
       location: "https://maps.app.goo.gl/nt8yJ6C7uTo9aX7q8",
       address: "Cəlilabad rayonu",
@@ -762,7 +762,7 @@ document.addEventListener("DOMContentLoaded", function () {
       image3: "/images/apartment/29/294.png",
       image4: "/images/apartment/29/295.png",
       image5: "/images/apartment/29/296.png",
-      buy: "alış",
+      buy: "Alış",
       place: "Gədəbəy",
       prices: 130000,
       price: "130 000 AZN",
@@ -770,7 +770,7 @@ document.addEventListener("DOMContentLoaded", function () {
       field: "190 ㎡",
       extract: "Kupça var",
       floor: "12/4",
-      room: "5",
+      room: "5 otaqlı və daha çox",
       repair: "Təmirli",
       location: "https://maps.app.goo.gl/Z9kxhxYrCmFALujf7",
       address: "Gədəbəy rayonu",
@@ -789,7 +789,7 @@ document.addEventListener("DOMContentLoaded", function () {
       image3: "/images/apartment/30/304.png",
       image4: "/images/apartment/30/305.png",
       image5: "/images/apartment/30/306.png",
-      buy: "alış",
+      buy: "Alış",
       place: "Gəncə",
       prices: 170000,
       price: "170 000 AZN",
@@ -797,7 +797,7 @@ document.addEventListener("DOMContentLoaded", function () {
       field: "205 ㎡",
       extract: "Kupça var",
       floor: "11/4",
-      room: "3",
+      room: "3 otaqlı",
       repair: "Təmirli",
       location: "https://maps.app.goo.gl/Z9kxhxYrCmFALujf7",
       address: "Gəncə rayonu",
@@ -817,7 +817,7 @@ document.addEventListener("DOMContentLoaded", function () {
       image3: "/images/apartment/31/314.png",
       image4: "/images/apartment/31/315.png",
       image5: "/images/apartment/31/316.png",
-      buy: "alış",
+      buy: "Alış",
       place: "Xaçmaz",
       prices: 100000,
       price: "100 000 AZN",
@@ -825,7 +825,7 @@ document.addEventListener("DOMContentLoaded", function () {
       field: "140 ㎡",
       extract: "Kupça var",
       floor: "9/3",
-      room: "4",
+      room: "4 otaqlı",
       repair: "Təmirli",
       location: "https://maps.app.goo.gl/Z9kxhxYrCmFALujf7",
       address: "Xaçmaz rayonu",
@@ -847,7 +847,7 @@ document.addEventListener("DOMContentLoaded", function () {
       image3: "/images/apartment/32/324.png",
       image4: "/images/apartment/32/325.png",
       image5: "/images/apartment/32/326.png",
-      buy: "alış",
+      buy: "Alış",
       place: "Lerik",
       prices: 132000,
       price: "132 000 AZN",
@@ -855,7 +855,7 @@ document.addEventListener("DOMContentLoaded", function () {
       field: "240 ㎡",
       extract: "Kupça var",
       floor: "2",
-      room: "5",
+      room: "5 otaqlı və daha çox",
       repair: "Təmirli",
       location: "https://maps.app.goo.gl/Z9kxhxYrCmFALujf7",
       address: "Lerik rayonu",
@@ -876,7 +876,7 @@ document.addEventListener("DOMContentLoaded", function () {
       image3: "/images/apartment/33/334.png",
       image4: "/images/apartment/33/335.png",
       image5: "/images/apartment/33/336.png",
-      buy: "alış",
+      buy: "Alış",
       place: "Lənkəran",
       prices: 98000,
       price: "98 000 AZN",
@@ -884,7 +884,7 @@ document.addEventListener("DOMContentLoaded", function () {
       field: "100 ㎡",
       extract: "Kupça var",
       floor: "9/2",
-      room: "3",
+      room: "3 otaqlı",
       repair: "Təmirli",
       location: "https://maps.app.goo.gl/Z9kxhxYrCmFALujf7",
       address: "Lənkəran rayonu",
@@ -906,7 +906,7 @@ document.addEventListener("DOMContentLoaded", function () {
       image3: "/images/apartment/34/344.png",
       image4: "/images/apartment/34/345.png",
       image5: "/images/apartment/34/346.png",
-      buy: "alış",
+      buy: "Alış",
       place: "Naxçıvan",
       prices: 111000,
       price: "111 000 AZN",
@@ -914,7 +914,7 @@ document.addEventListener("DOMContentLoaded", function () {
       field: "120 ㎡",
       extract: "Kupça var",
       floor: "11/5",
-      room: "4",
+      room: "4 otaqlı",
       repair: "Təmirli",
       location: "https://maps.app.goo.gl/Z9kxhxYrCmFALujf7",
       address: "Naxçıvan MR",
@@ -935,7 +935,7 @@ document.addEventListener("DOMContentLoaded", function () {
       image3: "/images/apartment/35/354.png",
       image4: "/images/apartment/35/355.png",
       image5: "/images/apartment/35/356.png",
-      buy: "alış",
+      buy: "Alış",
       place: "Bakı",
       prices: 349000,
       price: "349 000 AZN",
@@ -943,7 +943,7 @@ document.addEventListener("DOMContentLoaded", function () {
       field: "300 ㎡",
       extract: "Kupça var",
       floor: "2",
-      room: "5",
+      room: "5 otaqlı və daha çox",
       repair: "Təmirli",
       location: "https://maps.app.goo.gl/Z9kxhxYrCmFALujf7",
       address: "Nərimanov rayonu",
@@ -964,7 +964,7 @@ document.addEventListener("DOMContentLoaded", function () {
       image3: "/images/apartment/36/364.png",
       image4: "/images/apartment/36/365.png",
       image5: "/images/apartment/36/366.png",
-      buy: "alış",
+      buy: "Alış",
       place: "Bakı",
       prices: 310000,
       price: "310 000 AZN",
@@ -972,7 +972,7 @@ document.addEventListener("DOMContentLoaded", function () {
       field: "140 ㎡",
       extract: "Kupça var",
       floor: "17/7",
-      room: "5",
+      room: "5 otaqlı və daha çox",
       repair: "Təmirli",
       location: "https://maps.app.goo.gl/gqVGKLvbPgAoo1pE8",
       address: "8 Noyabr Metrosunun düz çıxışı",
@@ -993,7 +993,7 @@ document.addEventListener("DOMContentLoaded", function () {
       image3: "/images/apartment/37/374.png",
       image4: "/images/apartment/37/375.png",
       image5: "/images/apartment/37/376.png",
-      buy: "alış",
+      buy: "Alış",
       place: "Bakı",
       prices: 600000,
       price: "600 000 AZN",
@@ -1001,7 +1001,7 @@ document.addEventListener("DOMContentLoaded", function () {
       field: "180 ㎡",
       extract: "Kupça var",
       floor: "17/6",
-      room: "4",
+      room: "4 otaqlı",
       repair: "Təmirli",
       location: "https://maps.app.goo.gl/dFbXR9s8Y3zN6KYy6",
       address: "Azadlıq pr Nəsimi bazarın yanı",
@@ -1037,7 +1037,7 @@ document.addEventListener("DOMContentLoaded", function () {
       field: "100 ㎡",
       extract: "Kupça var",
       floor: "12/5",
-      room: "3",
+      room: "3 otaqlı",
       repair: "Təmirli",
       location: "https://maps.app.goo.gl/SzJ5Qo6HHavzUu95A",
       address: "Nərimanov ray m/s yaxın",
@@ -1066,7 +1066,7 @@ document.addEventListener("DOMContentLoaded", function () {
       field: "300 ㎡",
       extract: "Kupça var",
       floor: "2",
-      room: "7",
+      room: "5 otaqlı və daha çox",
       repair: "Təmirli",
       location: "https://maps.app.goo.gl/gsvxwcrxa4b8wixj9",
       address: "Mərdəkan Qəsəbəsi Əncirlik",
@@ -1095,7 +1095,7 @@ document.addEventListener("DOMContentLoaded", function () {
       field: "100 ㎡",
       extract: "Kupça var",
       floor: "12/8",
-      room: "2",
+      room: "2 otaqlı",
       repair: "Təmirli",
       location: "https://maps.app.goo.gl/gsvxwcrxa4b8wixj9",
       address: "Mərdəkan Qoşa /Qala res yanı",
@@ -1124,7 +1124,7 @@ document.addEventListener("DOMContentLoaded", function () {
       field: "90 ㎡",
       extract: "Kupça var",
       floor: "9/3",
-      room: "3",
+      room: "3 otaqlı",
       repair: "Təmirli",
       location: "https://maps.app.goo.gl/h3qpE1aW16VEQswJ8",
       address: "İnşaatçılar m/s. üstü",
@@ -1153,7 +1153,7 @@ document.addEventListener("DOMContentLoaded", function () {
       field: "110 ㎡",
       extract: "Kupça var",
       floor: "12/5",
-      room: "3",
+      room: "3 otaqlı",
       repair: "Təmirli",
       location: "https://maps.app.goo.gl/h3qpE1aW16VEQswJ8",
       address: "Nərimanov ray Təbriz küç",
@@ -1182,7 +1182,7 @@ document.addEventListener("DOMContentLoaded", function () {
       field: "120 ㎡",
       extract: "Kupça var",
       floor: "18/11",
-      room: "4",
+      room: "4 otaqlı",
       repair: "Təmirli",
       location: "https://maps.app.goo.gl/h3qpE1aW16VEQswJ8",
       address: "Azadlıq pr. 28. May m/s yaxın",
@@ -1211,7 +1211,7 @@ document.addEventListener("DOMContentLoaded", function () {
       field: "140 ㎡",
       extract: "Kupça var",
       floor: "2",
-      room: "3",
+      room: "3 otaqlı",
       repair: "Təmirli",
       location: "https://maps.app.goo.gl/h3qpE1aW16VEQswJ8",
       address: "Mərdəkan qəsəbəsi",
@@ -1285,7 +1285,7 @@ document.addEventListener("DOMContentLoaded", function () {
         cardElement.addEventListener("click", (e) => {
           localStorage.setItem(`cardInfo-${card.id}`, JSON.stringify(card));
           const url = new URL(window.location.href);
-          url.pathname = "cars.html";
+          url.pathname = "apartment.html";
           url.searchParams.set("id", card.id);
           window.open(url.toString(), "_blank");
         });
@@ -1316,7 +1316,7 @@ document.addEventListener("DOMContentLoaded", function () {
         cardElement.addEventListener("click", (e) => {
           localStorage.setItem(`cardInfo-${card.id}`, JSON.stringify(card));
           const url = new URL(window.location.href);
-          url.pathname = "cars.html";
+          url.pathname = "apartment.html";
           url.searchParams.set("id", card.id);
           window.open(url.toString(), "_blank");
         });
@@ -1344,7 +1344,7 @@ document.addEventListener("DOMContentLoaded", function () {
         cardElement.addEventListener("click", (e) => {
           localStorage.setItem(`cardInfo-${card.id}`, JSON.stringify(card));
           const url = new URL(window.location.href);
-          url.pathname = "cars.html";
+          url.pathname = "apartment.html";
           url.searchParams.set("id", card.id);
           window.open(url.toString(), "_blank");
         });
@@ -1374,7 +1374,7 @@ document.addEventListener("DOMContentLoaded", function () {
         cardElement.addEventListener("click", (e) => {
           localStorage.setItem(`cardInfo-${card.id}`, JSON.stringify(card));
           const url = new URL(window.location.href);
-          url.pathname = "cars.html";
+          url.pathname = "apartment.html";
           url.searchParams.set("id", card.id);
           window.open(url.toString(), "_blank");
         });
@@ -1407,7 +1407,6 @@ document.addEventListener("DOMContentLoaded", function () {
   const filterElement = document.querySelector(".filter-container");
   const sliderElement = document.querySelector(".slider-container");
   const activeAllCArd = document.querySelector(".active-all-card");
-  const activeNewCArd = document.querySelector(".active-new-card");
   const activeCrashCArd = document.querySelector(".active-agency-card");
   const activeRentCArd = document.querySelector(".active-rent-card");
   const hamburgerClosed = document.querySelector(".mobile-list");
@@ -1422,7 +1421,6 @@ document.addEventListener("DOMContentLoaded", function () {
       isRentCardClicked = false;
       renderCards(1);
       activeAllCArd.style.setProperty("--zero", "100%");
-      activeNewCArd.style.setProperty("--zero", "0%");
       activeCrashCArd.style.setProperty("--zero", "0%");
       activeRentCArd.style.setProperty("--zero", "0%");
       hamburgerClosed.style.display = "none";
@@ -1441,7 +1439,6 @@ document.addEventListener("DOMContentLoaded", function () {
       isRentCardClicked = false;
       renderCards(1);
       activeAllCArd.style.setProperty("--zero", "0%");
-      activeNewCArd.style.setProperty("--zero", "0%");
       activeCrashCArd.style.setProperty("--zero", "100%");
       activeRentCArd.style.setProperty("--zero", "0%");
       hamburgerClosed.style.display = "none";
@@ -1459,7 +1456,6 @@ document.addEventListener("DOMContentLoaded", function () {
       isRentCardClicked = true;
       renderCards(1);
       activeAllCArd.style.setProperty("--zero", "0%");
-      activeNewCArd.style.setProperty("--zero", "0%");
       activeCrashCArd.style.setProperty("--zero", "0%");
       activeRentCArd.style.setProperty("--zero", "100%");
       hamburgerClosed.style.display = "none";
@@ -1478,12 +1474,12 @@ document.addEventListener("DOMContentLoaded", function () {
     document.body.style.overflow = "unset";
   });
   // ------------------------select--------------------
-  const transactionType = ["Seç", "Alış", "Kirayə"];
+  const transactionType = ["Seç", "Alış"];
   const apartmentType = [
     "Seç",
     "Mənzil",
-    "Yeni tikili",
-    "Köhnə tikili",
+    "Yeni Tikili",
+    "Köhnə Tikili",
     "Həyət evi",
     "Ofis",
     "Qaraj",
@@ -1561,7 +1557,7 @@ document.addEventListener("DOMContentLoaded", function () {
       parseInt(document.querySelector("#priceMax").value, 10) ||
       Number.MAX_SAFE_INTEGER;
     const selectedBuy = buyElement.value;
-    const selectedModel = apartmentElement.value;
+    const selectedApartment = apartmentElement.value;
     const selectedRoom = roomElement.value;
     const selectedLocation = locationElement.value;
 
@@ -1571,9 +1567,9 @@ document.addEventListener("DOMContentLoaded", function () {
         cardPrice >= priceMin &&
         cardPrice <= priceMax &&
         (selectedBuy === "Seç" || card.buy === selectedBuy) &&
-        (selectedModel === "Seç" || card.model === selectedModel) &&
+        (selectedApartment === "Seç" || card.categoria === selectedApartment) &&
         (selectedRoom === "Seç" || card.room === selectedRoom) &&
-        (selectedLocation === "Seç" || card.location === selectedLocation)
+        (selectedLocation === "Seç" || card.place === selectedLocation)
       );
     });
 
@@ -1603,7 +1599,7 @@ document.addEventListener("DOMContentLoaded", function () {
         selectedLi.addEventListener("click", () => {
           localStorage.setItem(`cardInfo-${card.id}`, JSON.stringify(card));
           const url = new URL(window.location.href);
-          url.pathname = "cars.html";
+          url.pathname = "apartment.html";
           url.searchParams.set("id", card.id);
           window.open(url.toString(), "_blank");
         });

@@ -5,8 +5,8 @@
 }
 :root {
   --font-family: "Poppins", sans-serif;
-  --addCars: 0;
-  --searchCars: 100%;
+  --addapartment: 0;
+  --searchapartment: 100%;
 }
 header {
   width: 100%;
@@ -330,32 +330,32 @@ header nav {
   border-radius: 5px;
   border: 1px solid black;
 }
-.cars-tools-elements {
+.apartment-tools-elements {
   display: flex;
   flex-direction: column;
   align-items: start;
   gap: 25px;
 }
-.cars-tools-elements p {
+.apartment-tools-elements p {
   font-weight: bold;
 }
-.cars-tools {
+.apartment-tools {
   width: 100%;
   display: flex;
   flex-direction: column;
 }
-.cars-tools li {
+.apartment-tools li {
   width: 100%;
   display: flex;
   flex-direction: column;
 }
-.cars-tools li div {
+.apartment-tools li div {
   width: 100%;
   display: flex;
   align-items: start;
   gap: 10px;
 }
-.cars-tools li div label {
+.apartment-tools li div label {
   width: 100%;
 }
 /* -------millage------- */

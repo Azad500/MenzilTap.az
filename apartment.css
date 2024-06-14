@@ -116,7 +116,7 @@ main {
 .carousel-wrapper .dots .dot:hover {
   background-color: rgb(81, 81, 81);
 }
-.cars-informations {
+.apartment-informations {
   width: 80%;
   display: flex;
   flex-direction: column;
@@ -127,20 +127,20 @@ main {
   padding: 20px 0;
   gap: 10px;
 }
-.cars-informations > p {
+.apartment-informations > p {
   font-weight: bold;
   font-family: "Poppins", sans-serif;
   font-size: 14px;
 }
-.cars-informations .user-elements {
+.apartment-informations .user-elements {
   display: flex;
   gap: 20px;
 }
-.cars-informations .user-elements span {
+.apartment-informations .user-elements span {
   font-family: "Poppins", sans-serif;
   font-size: 14px;
 }
-.cars-informations button {
+.apartment-informations button {
   padding: 10px 15px;
   border-radius: 10px;
   border: none;
@@ -153,30 +153,30 @@ main {
   transition: all 0.3s ease;
   cursor: pointer;
 }
-.cars-informations button:hover {
+.apartment-informations button:hover {
   transform: scale(1.05);
 }
-.cars-informations button p {
+.apartment-informations button p {
   font-family: "Poppins", sans-serif;
   font-size: 14px;
 }
-.cars-informations button .phone-button .blur-element {
+.apartment-informations button .phone-button .blur-element {
   filter: blur(2px);
   font-family: "Poppins", sans-serif;
   font-size: 14px;
 }
 /* ----------------------------- */
-.cars-about-informations {
+.apartment-about-informations {
   width: 80%;
   margin: 20px auto;
 }
-.date-cars {
+.date-apartment {
   display: flex;
   align-items: center;
   gap: 3px;
   margin-bottom: 10px;
 }
-.date-cars p {
+.date-apartment p {
   font-size: 14px;
   font-family: "Poppins", sans-serif;
 }

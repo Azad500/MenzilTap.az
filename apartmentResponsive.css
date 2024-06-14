@@ -17,20 +17,20 @@
   .carousel-wrapper .carousel .item img {
     height: 350px;
   }
-  .cars-informations {
+  .apartment-informations {
     flex-direction: unset;
     justify-content: space-around;
   }
-  .cars-informations > p {
+  .apartment-informations > p {
     font-size: 16px;
   }
-  .cars-informations .user-elements span {
+  .apartment-informations .user-elements span {
     font-size: 16px;
   }
-  .cars-informations button p {
+  .apartment-informations button p {
     font-size: 16px;
   }
-  .cars-informations button .phone-button .blur-element {
+  .apartment-informations button .phone-button .blur-element {
     font-size: 16px;
   }
   /* ----------------- */
@@ -61,28 +61,28 @@
     align-items: start;
     gap: 20px;
   }
-  .cars-informations > p {
+  .apartment-informations > p {
     font-size: 20px;
   }
-  .cars-informations .user-elements span {
+  .apartment-informations .user-elements span {
     font-size: 18px;
   }
   .carousel-wrapper {
     width: 700px;
   }
-  .cars-informations {
+  .apartment-informations {
     width: 250px;
     margin-top: 0px;
     flex-direction: column;
   }
-  .cars-informations button p {
+  .apartment-informations button p {
     font-size: 18px;
   }
-  .cars-informations button .phone-button .blur-element {
+  .apartment-informations button .phone-button .blur-element {
     font-size: 18px;
   }
   /* ------------ */
-  .cars-about-informations {
+  .apartment-about-informations {
     width: 950px;
   }
   .info-element-two {
@@ -104,13 +104,13 @@
   .carousel-wrapper {
     width: 850px;
   }
-  .cars-informations {
+  .apartment-informations {
     width: 250px;
     margin-top: 0px;
     flex-direction: column;
   }
   /* ------------ */
-  .cars-about-informations {
+  .apartment-about-informations {
     width: 1090px;
   }
   .info-element-two {
