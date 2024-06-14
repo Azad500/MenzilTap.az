@@ -1,0 +1,122 @@
+@media screen and (min-width: 500px) {
+  .carousel-wrapper .carousel .item img {
+    height: 250px;
+  }
+  .info-element-five {
+    flex-direction: unset;
+    justify-content: space-between;
+    align-items: center;
+  }
+}
+@media screen and (min-width: 600px) {
+  .carousel-wrapper .carousel .item img {
+    height: 300px;
+  }
+}
+@media screen and (min-width: 768px) {
+  .carousel-wrapper .carousel .item img {
+    height: 350px;
+  }
+  .cars-informations {
+    flex-direction: unset;
+    justify-content: space-around;
+  }
+  .cars-informations > p {
+    font-size: 16px;
+  }
+  .cars-informations .user-elements span {
+    font-size: 16px;
+  }
+  .cars-informations button p {
+    font-size: 16px;
+  }
+  .cars-informations button .phone-button .blur-element {
+    font-size: 16px;
+  }
+  /* ----------------- */
+  .info-element-one {
+    flex-direction: unset;
+  }
+}
+@media screen and (min-width: 950px) {
+  .carousel-wrapper .carousel .item img {
+    height: 400px;
+  }
+}
+@media screen and (min-width: 1024px) {
+  .info-element-five {
+    width: 690px;
+  }
+  .info-element-one ul li {
+    width: 200px;
+  }
+  .carousel-wrapper .carousel .item img {
+    height: 460px;
+    object-fit: unset;
+  }
+  .carousel-container {
+    width: 1000px;
+    margin: 0 auto;
+    flex-direction: unset;
+    align-items: start;
+    gap: 20px;
+  }
+  .cars-informations > p {
+    font-size: 20px;
+  }
+  .cars-informations .user-elements span {
+    font-size: 18px;
+  }
+  .carousel-wrapper {
+    width: 700px;
+  }
+  .cars-informations {
+    width: 250px;
+    margin-top: 0px;
+    flex-direction: column;
+  }
+  .cars-informations button p {
+    font-size: 18px;
+  }
+  .cars-informations button .phone-button .blur-element {
+    font-size: 18px;
+  }
+  /* ------------ */
+  .cars-about-informations {
+    width: 950px;
+  }
+  .info-element-two {
+    width: 690px;
+  }
+}
+@media screen and (min-width: 1200px) {
+  .carousel-container {
+    width: 1100px;
+  }
+  .carousel-wrapper .carousel .item {
+    backdrop-filter: blur(4px);
+    background-color: black;
+  }
+  .carousel-wrapper .carousel .item img {
+    height: 510px;
+    object-fit: contain;
+  }
+  .carousel-wrapper {
+    width: 850px;
+  }
+  .cars-informations {
+    width: 250px;
+    margin-top: 0px;
+    flex-direction: column;
+  }
+  /* ------------ */
+  .cars-about-informations {
+    width: 1090px;
+  }
+  .info-element-two {
+    width: 840px;
+  }
+  .info-element-five {
+    width: 840px;
+  }
+}

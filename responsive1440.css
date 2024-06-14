@@ -1,0 +1,20 @@
+@media screen and (min-width: 1440px) {
+  /* ------------navbar----------- */
+  header nav {
+    padding: 10px 0;
+  }
+  /* ------------slider----------- */
+  .slider-element {
+    height: 500px;
+  }
+  .slider-element li img {
+    height: 500px;
+  }
+  .filter-container .filter-elements {
+    width: 1400px;
+  }
+  /* ------------footer--------- */
+  .footer-part {
+    width: 1250px;
+  }
+}

@@ -1,0 +1,331 @@
+:root {
+  --font-family: "Poppins", sans-serif;
+  --zero: 0%;
+}
+@media screen and (min-width: 1024px) {
+  /* --------------hamburger------------- */
+  .hamburger-element i {
+    display: none;
+  }
+  .navbar-right-side {
+    display: none;
+  }
+  .login {
+    display: flex;
+    background-color: #3ee4c9;
+    padding: 10px 20px;
+    border-radius: 10px;
+    gap: 10px;
+    cursor: pointer;
+    position: relative;
+    overflow: hidden;
+  }
+  .login::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 0;
+    height: 100%;
+    background-color: #25c0a6;
+    transition: width 0.3s ease;
+    z-index: 1;
+  }
+  .login:hover::before {
+    width: 100%;
+    right: auto;
+    left: 0;
+  }
+  .login p {
+    color: black;
+    font-family: "Poppins", sans-serif;
+    font-size: 14px;
+    z-index: 1;
+  }
+  .login i {
+    color: white;
+    font-size: 16px;
+    z-index: 1;
+  }
+  .menu-list {
+    list-style: none;
+    display: flex;
+    gap: 40px;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+  .menu-list li {
+    transition: all 0.3s ease;
+  }
+  .menu-list li:hover {
+    transform: scale(1.1);
+  }
+  .menu-list li a {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+    position: relative;
+    font-size: 20px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    padding: 0 10px;
+  }
+  .menu-list li a::after {
+    content: "";
+    width: 0;
+    height: 2px;
+    background-color: black;
+    position: absolute;
+    left: 0;
+    bottom: -10px;
+    transition: 0.5s;
+  }
+  .menu-list li:first-child a::after {
+    width: var(--zero);
+  }
+  .menu-list li:nth-child(2) a::after {
+    width: var(--zero);
+  }
+  .menu-list li:nth-child(3) a::after {
+    width: var(--zero);
+  }
+  .menu-list li:nth-child(4) a::after {
+    width: var(--zero);
+  }
+  .menu-list li a:hover::after {
+    width: 100%;
+  }
+  /* --------------slider------------- */
+  .slider-element {
+    width: 100%;
+    height: 400px;
+  }
+  .slider-title {
+    font-size: 24px;
+    width: 425px;
+  }
+  .slider-element li img {
+    width: 100%;
+    height: 400px;
+    object-fit: cover;
+  }
+  /* --------------filter------------- */
+  .filter-container {
+    height: 10px;
+  }
+  .filter-container .filter-elements {
+    top: -4px;
+    width: 1000px;
+    height: 200px;
+    background-color: transparent;
+  }
+  .filter-container .filter-elements .input-elements {
+    flex-direction: unset;
+    top: -100%;
+    z-index: 1;
+  }
+  .filter-container .filter-elements .input-elements .buy-element,
+  .apartment-element,
+  .room-element,
+  .location-element {
+    width: 13%;
+  }
+  .filter-container .filter-elements .input-elements #buy,
+  #apartment,
+  #room,
+  #location {
+    width: 100%;
+    border-radius: unset;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+  }
+  .filter-container .filter-elements .input-elements #apartment {
+    border: 1px solid black;
+    border-left: unset;
+  }
+  .filter-container .filter-elements .input-elements #room {
+    border: 1px solid black;
+    border-left: unset;
+  }
+  .filter-container .filter-elements .input-elements #location {
+    border: 1px solid black;
+    border-left: unset;
+    border-right: unset;
+  }
+  .filter-container .filter-elements .input-elements .price-elements {
+    width: 26%;
+  }
+  .filter-container .filter-elements .input-elements .price-elements input {
+    border: 1px solid black;
+  }
+  .filter-container .filter-elements .input-elements .submit-button {
+    width: 22%;
+    position: unset;
+    border-radius: unset;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    transition: all 0.3s ease;
+    border: none;
+  }
+  .filter-container .filter-elements .input-elements .submit-button:hover {
+    background-color: #25c0a6;
+  }
+  /* -------------------apartment-sale---------------- */
+  .apartment-sale-inputs ul {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: unset;
+    list-style: none;
+    gap: 30px;
+  }
+  .right-side-element input {
+    width: 70%;
+  }
+  .left-side-element,
+  .right-side-element {
+    width: 50%;
+  }
+  .left-side-element li,
+  .right-side-element li {
+    width: 100%;
+    position: unset;
+    display: flex;
+    justify-content: space-between;
+  }
+  .left-side-element li select,
+  .right-side-element li select {
+    position: unset;
+    right: unset;
+    top: unset;
+    width: 70%;
+    transform: translateY(0);
+  }
+  .millage-li,
+  .price-li {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+  }
+  .millage-li div:first-child,
+  .price-li div:first-child {
+    width: 30%;
+  }
+  .millage-li div:last-child,
+  .price-li div:last-child {
+    width: 70%;
+  }
+  .millage-li div:last-child input[type="millage"] {
+    width: 80%;
+  }
+  .price-li div:last-child input[type="price1"] {
+    width: 75%;
+  }
+  .left-side-element li input[type="millage"],
+  .left-side-element li input[type="price1"] {
+    position: unset;
+    top: unset;
+    left: unset;
+    transform: translateY(0);
+  }
+  /* -------millage------- */
+  .left-side-element li label[for="km"] {
+    position: unset;
+    top: unset;
+    left: unset;
+  }
+  .left-side-element li input[id="km"] {
+    position: unset;
+    top: unset;
+    left: unset;
+  }
+  .left-side-element li label[for="mil"] {
+    position: unset;
+    top: unset;
+    left: unset;
+  }
+  .left-side-element li input[id="mil"] {
+    position: unset;
+    top: unset;
+    left: unset;
+  }
+  /* -------price------- */
+  .left-side-element li input[id="azn"] {
+    position: unset;
+    top: unset;
+    left: unset;
+  }
+  .left-side-element li label[for="azn"] {
+    position: unset;
+    top: unset;
+    left: unset;
+  }
+  .left-side-element li input[id="usd"] {
+    position: unset;
+    top: unset;
+    left: unset;
+  }
+  .left-side-element li label[for="usd"] {
+    position: unset;
+    top: unset;
+    left: unset;
+  }
+  /* ---------bottom-side------------ */
+  .bottom-side-element li div:first-child {
+    width: 15%;
+  }
+  .bottom-side-element .situation-elements {
+    width: 50%;
+  }
+  .vin-element label,
+  .add-message-element label {
+    width: 15%;
+  }
+  .vin-element input {
+    width: 25%;
+  }
+  .add-message-element textarea {
+    width: 55%;
+  }
+  /* -------------pictures---------- */
+  .pictures-border {
+    display: flex;
+    flex-direction: unset;
+    padding: 10px;
+  }
+  .pictures-border div:first-child {
+    min-width: 80%;
+  }
+  /* ----------add-button-------- */
+  .add-button-element {
+    justify-content: end;
+  }
+  .add-button-element button {
+    padding: 15px 100px;
+    font-size: 16px;
+  }
+  /* -------------------cards---------------- */
+  .cards-container {
+    top: 250px;
+  }
+  .cards-element,
+  .selected-container {
+    justify-content: center;
+  }
+  /* ------------footer--------- */
+  .footer-part {
+    width: 1000px;
+  }
+  .footer-logo {
+    width: 150px;
+  }
+  .footer-list li a p {
+    font-size: 20px;
+  }
+  .footer-list li a i {
+    font-size: 20px;
+  }
+  .footer-element .footer-list .footer-social a i {
+    font-size: 25px;
+  }
+}

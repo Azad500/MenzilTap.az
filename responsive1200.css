@@ -1,0 +1,13 @@
+@media screen and (min-width: 1200px) {
+  .slider-title {
+    font-size: 30px;
+    width: 525px;
+  }
+  .filter-container .filter-elements {
+    width: 1150px;
+  }
+  /* ------------footer--------- */
+  .footer-part {
+    width: 1190px;
+  }
+}

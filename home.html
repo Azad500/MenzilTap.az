@@ -1,0 +1,317 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>MənzilTap.az</title>
+    <link rel="icon" type="image/png" href="./images/logo/menzilTap.png" />
+    <link rel="stylesheet" href="./home.css" />
+    <link rel="stylesheet" href="./responsive425.css" />
+    <link rel="stylesheet" href="./responsive768.css" />
+    <link rel="stylesheet" href="./responsive1024.css" />
+    <link rel="stylesheet" href="./responsive1200.css" />
+    <link rel="stylesheet" href="./responsive1440.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
+      integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+  </head>
+  <body>
+    <!-- ---------------header----------------- -->
+    <header>
+      <!-- ---------------mobile-list----------------- -->
+      <div class="mobile-list">
+        <div class="xIcon">
+          <i class="fa-regular fa-circle-xmark"></i>
+        </div>
+        <div class="logo-mobile">
+          <img src="./images/logo/menzilTap.png" alt="logo mobile" />
+        </div>
+        <ul class="menu-list-mobile">
+          <li>
+            <a class="all-cards">Alqı-satqı</a>
+          </li>
+          <li>
+            <a class="rent-cards">Kirayə</a>
+          </li>
+          <li>
+            <a class="crash-cards">Agentliklər</a>
+          </li>
+        </ul>
+        <p class="border"></p>
+        <div class="sosial-networks">
+          <i class="fa-brands fa-facebook"></i>
+          <i class="fa-brands fa-instagram"></i>
+          <i class="fa-brands fa-linkedin"></i>
+          <i class="fa-brands fa-twitter"></i>
+        </div>
+      </div>
+      <!-- ---------------navbar----------------- -->
+      <nav>
+        <div class="logo-mobile">
+          <div class="logo-element-in-mobile">
+            <img src="./images/logo/menzilTap.png" alt="Evim Logo" />
+          </div>
+          <div class="navbar-right-side">
+            <!-- ------------login-button--------- -->
+            <div class="login-in-mobile">
+              <i class="fa-solid fa-plus" style="color: #000000"></i>
+              <p>Elan Yerləşdir</p>
+            </div>
+            <!-- ------------hamburger--------- -->
+            <div class="hamburger-element">
+              <i class="fa-solid fa-bars"></i>
+            </div>
+          </div>
+          <ul class="menu-list">
+            <li>
+              <a class="all-cards active-all-card">Alqı-satqı</a>
+            </li>
+            <li>
+              <a class="rent-cards active-rent-card">Kirayə</a>
+            </li>
+            <li>
+              <a class="agency-cards active-agency-card">Agentliklər</a>
+            </li>
+          </ul>
+          <!-- ------------login-button--------- -->
+          <div class="login">
+            <i class="fa-solid fa-plus" style="color: #000000"></i>
+            <p>Elan Yerləşdir</p>
+          </div>
+        </div>
+      </nav>
+      <!-- ---------------slider----------------- -->
+      <div class="slider-container">
+        <ul class="slider-element">
+          <p class="slider-title">MənzilTap.az: Xəyalınızdakı evi tapın!</p>
+          <li class="slide">
+            <div class="overlay"></div>
+            <img src="./images/slider/evimslider2.webp" alt="slider 2" />
+          </li>
+        </ul>
+      </div>
+    </header>
+    <!-- ---------------main----------------- -->
+    <main>
+      <!-- ---------------filter----------------- -->
+      <section class="filter-container">
+        <div class="filter-elements">
+          <!-- ------------apartment-sale------------- -->
+          <div class="apartment-sale">
+            <form class="apartment-sale-inputs">
+              <ul>
+                <!-- ----------left-side---------- -->
+                <div class="left-side-element">
+                  <li>
+                    <label for="categorie1">Əməliyyat növü<sup>*</sup></label>
+                    <select name="categorie1" id="categorie1">
+                      <option value="">Seçin</option>
+                      <option value="">Mənzil</option>
+                      <option value="">Yeni tikili</option>
+                      <option value="">Köhnə tikili</option>
+                      <option value="">Həyət evi</option>
+                      <option value="">Ofis</option>
+                      <option value="">Qaraj</option>
+                      <option value="">Torpaq</option>
+                      <option value="">Obyekt</option>
+                    </select>
+                  </li>
+                  <li>
+                    <label for="place1">Vəziyyəti<sup>*</sup></label>
+                    <select name="place1" id="place1">
+                      <option value="">Seçin</option>
+                      <option value="">Satıram</option>
+                      <option value="">Kirayə verirəm</option>
+                    </select>
+                  </li>
+                  <li>
+                    <label for="extract">Çıxarış<sup>*</sup></label>
+                    <select name="extract" id="extract">
+                      <option value="">Seçin</option>
+                      <option value="">Kupça var</option>
+                      <option value="">Kupça yox</option>
+                      <option value="">Müqavilə</option>
+                    </select>
+                  </li>
+
+                  <li class="price-li">
+                    <div>
+                      <label for="price1">Qiymət<sup>*</sup></label>
+                    </div>
+                    <div>
+                      <input type="price1" name="price1" id="price1" />
+                      <input type="radio" name="azn" id="azn" />
+                      <label for="azn">AZN</label>
+                      <input type="radio" name="azn" id="usd" />
+                      <label for="usd">USD</label>
+                    </div>
+                  </li>
+                </div>
+                <!-- ----------right-side---------- -->
+                <div class="right-side-element">
+                  <li>
+                    <label for="name">Adınız<sup>*</sup></label>
+                    <input type="text" name="name" id="name" />
+                  </li>
+                  <li>
+                    <label for="email1">Email<sup>*</sup></label>
+                    <input type="email" name="email1" id="email1" />
+                  </li>
+                  <li>
+                    <label for="phone">Telefon<sup>*</sup></label>
+                    <input
+                      type="number"
+                      name="phone"
+                      id="phone"
+                      placeholder="(+994)"
+                    />
+                  </li>
+                  <li>
+                    <label for="color">Şəhər</label>
+                    <select name="color" id="color">
+                      <option value="">Seçin</option>
+                      <option value="">Ağcabədi</option>
+                      <option value="">Abşeron</option>
+                      <option value="">Bakı</option>
+                      <option value="">Bərdə</option>
+                      <option value="">Beyləqan</option>
+                      <option value="">Cəlilabad</option>
+                      <option value="">İsmayıllı</option>
+                      <option value="">Gədəbəy</option>
+                      <option value="">Gəncə</option>
+                      <option value="">Xaçmaz</option>
+                      <option value="">Lerik</option>
+                      <option value="">Lənkəran</option>
+                      <option value="">Naxçıvan</option>
+                      <option value="">Şamaxı</option>
+                    </select>
+                  </li>
+                </div>
+              </ul>
+              <!-- --------------bottom-side------------- -->
+              <ol class="bottom-side-element">
+                <li class="add-message-element">
+                  <label for="addMessage">Əlavə qeyd</label>
+                  <textarea name="addMessage" id="addMessage"></textarea>
+                </li>
+                <li class="pictures-container">
+                  <p class="picture-text">Şəkillər</p>
+                  <div class="pictures-border">
+                    <div>
+                      <p>- Minimum – 3 şəkil.</p>
+                      <p>- Maksimum – 21 şəkil.</p>
+                      <p>- Optimal ölçü – 1024x768 piksel.</p>
+                    </div>
+                    <div>
+                      <input type="file" name="pictures" id="pictures" />
+                      <button class="custom-button">+</button>
+                    </div>
+                  </div>
+                </li>
+                <li class="add-button-element">
+                  <button class="back-button">Geri</button>
+                  <button>Əlavə et</button>
+                </li>
+              </ol>
+            </form>
+          </div>
+          <form class="input-elements">
+            <!-- ---------buy--------- -->
+            <div class="buy-element">
+              <label class="buy" for="buy">Əməliyyat növü</label>
+              <select name="buy" id="buy"></select>
+              <i class="fa-solid fa-chevron-down arrow-in-input"></i>
+            </div>
+            <!-- ---------apartment-number--------- -->
+            <div class="apartment-element">
+              <label class="apartment" for="apartment">Mənzil növü</label>
+              <select name="apartment" id="apartment"></select>
+              <i class="fa-solid fa-chevron-down arrow-in-input"></i>
+            </div>
+            <!-- ---------room-number--------- -->
+            <div class="room-element">
+              <label class="room" for="room">Otaq sayı</label>
+              <select name="room" id="room"></select>
+              <i class="fa-solid fa-chevron-down arrow-in-input"></i>
+            </div>
+            <!-- ---------location---------- -->
+            <div class="location-element">
+              <label class="location" for="location">Yer</label>
+              <select name="location" id="location"></select>
+              <i class="fa-solid fa-chevron-down arrow-in-input"></i>
+            </div>
+            <!-- ---------price--------- -->
+            <div class="price-elements">
+              <label class="price" for="priceMin">Qiymət</label>
+              <input
+                type="number"
+                name="price"
+                id="priceMin"
+                placeholder="min"
+              />
+              <input
+                type="number"
+                name="price"
+                id="priceMax"
+                placeholder="max"
+              />
+            </div>
+            <!-- ---------submit--------- -->
+            <input class="submit-button" type="submit" value="Axtar" />
+          </form>
+        </div>
+      </section>
+      <!-- ---------------cards----------------- -->
+      <section class="cards-container">
+        <ul class="cards-element"></ul>
+        <ul class="selected-container"></ul>
+        <!-- <p class="not-information">Məlumat tapılmadı</p> -->
+      </section>
+      <div id="pagination-controls"></div>
+    </main>
+    <!-- ---------------footer----------------- -->
+    <footer>
+      <div class="footer-element">
+        <div class="footer-part">
+          <div class="footer-logo">
+            <img src="./images/logo/menzilTap.png" alt="footer logo" />
+          </div>
+          <ul class="footer-list">
+            <li>
+              <a href="">
+                <i class="fa-solid fa-phone"></i>
+                <p>+994 (12) 123 45 67</p>
+              </a>
+            </li>
+            <li>
+              <a href="">
+                <i class="fa-solid fa-envelope"></i>
+                <p>info@menziltap.az</p>
+              </a>
+            </li>
+            <li class="footer-social">
+              <a href="">
+                <i class="fa-brands fa-facebook"></i>
+              </a>
+              <a href="">
+                <i class="fa-brands fa-instagram"></i>
+              </a>
+              <a href="">
+                <i class="fa-brands fa-linkedin"></i>
+              </a>
+              <a href="">
+                <i class="fa-brands fa-twitter"></i>
+              </a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </footer>
+    <script src="./home.js"></script>
+    <script src="./cards.js"></script>
+  </body>
+</html>

@@ -1,0 +1,17 @@
+@media screen and (min-width: 768px) {
+  .slider-title {
+    font-size: 20px;
+    width: 360px;
+  }
+  .slider-element li img {
+    height: 300px;
+  }
+  .filter-container .input-elements .submit-button {
+    font-size: 18px;
+  }
+  .footer-part {
+    width: 700px;
+    flex-direction: unset;
+    justify-content: space-between;
+  }
+}
